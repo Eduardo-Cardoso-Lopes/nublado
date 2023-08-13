@@ -1,0 +1,16 @@
+.texto-lorem1{
+        margin: 40px;
+        padding: 20px;
+        border: solid 10px;
+        color: green;
+        background-color:#F5F5F5;
+}
+
+
+.texto-lorem2{
+    margin: 40px;
+    padding: 20px;
+    border: solid 10px;
+    color: green;
+    background-color:#F0CCE2;
+}
